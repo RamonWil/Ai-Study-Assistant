@@ -2,7 +2,7 @@
 
 A personalized AI-powered study companion with interactive tutor chat, active quiz challenge modes, and document-to-flashcard generation.
 
-## 🚀 Bring Your Own Key (BYOK) & Zero-Cost Hosting
+## Bring Your Own Key (BYOK) & Zero-Cost Hosting
 
 When you clone or publish this app to GitHub:
 
