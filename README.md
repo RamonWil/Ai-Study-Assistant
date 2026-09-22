@@ -11,7 +11,7 @@ Users can simply paste their own free Gemini API key directly into the app:
 1. In the initial onboarding screen or inside the **Account Modal** (top-right header), enter a Gemini API Key.
 2. The key is securely saved in the user's browser `localStorage` and sent with each tutor, challenge, and quiz request.
 3. Get a free key at [Google Developer Console / Gemini](https://ai.google.dev/).
-4. **This ensures users use their own Gemini quota, not yours!**
+4. **This ensures users use their own Gemini quota, not mine! 😆**
 
 ### Option 2: Environment Variable
 For self-hosting or deployment on Vercel / Railway / Cloud Run:
